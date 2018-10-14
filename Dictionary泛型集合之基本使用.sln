@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary泛型集合之基本使用", "Dictionary泛型集合之基本使用\Dictionary泛型集合之基本使用.csproj", "{2A23DAFF-0A35-43A3-8166-D578E3B605FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20181014Dictionary泛型集合之基本使用", "Dictionary泛型集合之基本使用\20181014Dictionary泛型集合之基本使用.csproj", "{2A23DAFF-0A35-43A3-8166-D578E3B605FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
